@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDF5AA,100:4A9782&height=250&section=header&text=Welcome%20to%20Junghyun's%20GitHub!&fontColor=333333&fontSize=40)
-<h1 align="center">👋 안녕하세요, 박혜지입니다!</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDF5AA,100:4A9782&height=250&section=header&text=안녕하세요,%20박혜지입니다!&fontColor=333333&fontSize=40)
+
 <p align="center">
   Back-end 중심 실전형 개발자 | JSP · Spring MVC · RPA 자동화 경험 보유
 </p>

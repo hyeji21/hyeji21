@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A45C6A,100:4A9782&height=250&section=header&text=안녕하세요,%20박혜지입니다!&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A45C6A,100:4A9782&height=250&section=header&text=안녕하세요,%20박혜지입니다!&fontColor=CCCCCC&fontSize=40)
 
 <p align="center">
   Back-end 중심 실전형 개발자 | JSP · Spring MVC · RPA 자동화 경험 보유
